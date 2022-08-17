@@ -1,6 +1,6 @@
 ---
 title: "First Knit"
-author: "Your Name"
+author: "Cadence Gorden"
 output: 
   html_document:
     number_sections: true
@@ -16,7 +16,7 @@ Here are just a few questions so I can get to know you and so you can get practi
 ## A short history of you.  
 Where did you attend High School, and did you graduate? Compare english class to math, is one easier for you than the other? Finally which subject did you do the best in? Your answer should have at least two sentences devoted to each question.  
   
-### my answer     
+### I attended high school at Rancho Cucamonga high. During 2020, I transferred to California Virtual Academies and graduated from there in June.      
   
 
      
